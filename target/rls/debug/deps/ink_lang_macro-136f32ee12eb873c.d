@@ -1,0 +1,9 @@
+/Users/kentarovadney/Desktop/code/contract-play/target/rls/debug/deps/libink_lang_macro-136f32ee12eb873c.dylib: /Users/kentarovadney/.cargo/git/checkouts/ink-1add513eda8f5a89/d4fd3f7/crates/lang/macro/src/lib.rs /Users/kentarovadney/.cargo/git/checkouts/ink-1add513eda8f5a89/d4fd3f7/crates/lang/macro/src/chain_extension.rs /Users/kentarovadney/.cargo/git/checkouts/ink-1add513eda8f5a89/d4fd3f7/crates/lang/macro/src/contract.rs /Users/kentarovadney/.cargo/git/checkouts/ink-1add513eda8f5a89/d4fd3f7/crates/lang/macro/src/ink_test.rs /Users/kentarovadney/.cargo/git/checkouts/ink-1add513eda8f5a89/d4fd3f7/crates/lang/macro/src/trait_def.rs
+
+/Users/kentarovadney/Desktop/code/contract-play/target/rls/debug/deps/ink_lang_macro-136f32ee12eb873c.d: /Users/kentarovadney/.cargo/git/checkouts/ink-1add513eda8f5a89/d4fd3f7/crates/lang/macro/src/lib.rs /Users/kentarovadney/.cargo/git/checkouts/ink-1add513eda8f5a89/d4fd3f7/crates/lang/macro/src/chain_extension.rs /Users/kentarovadney/.cargo/git/checkouts/ink-1add513eda8f5a89/d4fd3f7/crates/lang/macro/src/contract.rs /Users/kentarovadney/.cargo/git/checkouts/ink-1add513eda8f5a89/d4fd3f7/crates/lang/macro/src/ink_test.rs /Users/kentarovadney/.cargo/git/checkouts/ink-1add513eda8f5a89/d4fd3f7/crates/lang/macro/src/trait_def.rs
+
+/Users/kentarovadney/.cargo/git/checkouts/ink-1add513eda8f5a89/d4fd3f7/crates/lang/macro/src/lib.rs:
+/Users/kentarovadney/.cargo/git/checkouts/ink-1add513eda8f5a89/d4fd3f7/crates/lang/macro/src/chain_extension.rs:
+/Users/kentarovadney/.cargo/git/checkouts/ink-1add513eda8f5a89/d4fd3f7/crates/lang/macro/src/contract.rs:
+/Users/kentarovadney/.cargo/git/checkouts/ink-1add513eda8f5a89/d4fd3f7/crates/lang/macro/src/ink_test.rs:
+/Users/kentarovadney/.cargo/git/checkouts/ink-1add513eda8f5a89/d4fd3f7/crates/lang/macro/src/trait_def.rs:

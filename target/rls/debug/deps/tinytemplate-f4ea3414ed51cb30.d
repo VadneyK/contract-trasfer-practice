@@ -1,0 +1,10 @@
+/Users/kentarovadney/Desktop/code/contract-play/target/rls/debug/deps/tinytemplate-f4ea3414ed51cb30.rmeta: /Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/lib.rs /Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/compiler.rs /Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/error.rs /Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/instruction.rs /Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/syntax.rs /Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/template.rs
+
+/Users/kentarovadney/Desktop/code/contract-play/target/rls/debug/deps/tinytemplate-f4ea3414ed51cb30.d: /Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/lib.rs /Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/compiler.rs /Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/error.rs /Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/instruction.rs /Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/syntax.rs /Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/template.rs
+
+/Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/lib.rs:
+/Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/compiler.rs:
+/Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/error.rs:
+/Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/instruction.rs:
+/Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/syntax.rs:
+/Users/kentarovadney/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/template.rs:

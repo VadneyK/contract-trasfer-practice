@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/kentarovadney/Desktop/code/contract-play/target/ink/release/build/typenum-9f463297818ba53e/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/kentarovadney/Desktop/code/contract-play/target/ink/release/build/typenum-9f463297818ba53e/out/op.rs
